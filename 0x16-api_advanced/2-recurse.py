@@ -33,4 +33,4 @@ def recurse(subreddit, hot_list=[], page=1, limit=100):
         page += 1
         return recurse(subreddit, hot_list, page)
     return hot_list
-
+ 0x16-api_advanced
